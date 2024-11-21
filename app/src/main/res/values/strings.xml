@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AlertDialogs</string>
+    <string name="btn_abrir">Abrir</string>
+    <string name="user_name" />
+    <string name="user_password">Senha:</string>
+    <string name="user_email">Login</string>
+</resources>
